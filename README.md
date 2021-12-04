@@ -16,6 +16,6 @@ I'm Abhiram, a 19 years old Programmer from India.
 
 ## Contact
 - Instagram (https://www.instagram.com/abhiram_laha/)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- Facebook (https://www.facebook.com/abhiramlaha2020/)
+- Twitter (https://twitter.com/LahaAbhiram)
+
