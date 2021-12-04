@@ -5,9 +5,8 @@
 ## Hey! 👋
 I'm Abhiram, a 19 years old Programmer from India.
 
-- 🧭 Follow me on [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 Follow me on (https://www.linkedin.com/in/abhiramlaha/)
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
 ## Skills
 - 👨‍💻 Python, C/C++
@@ -16,7 +15,7 @@ I'm Abhiram, a 19 years old Programmer from India.
 - 💽 Cybersecurity
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
+- Instagram (https://www.instagram.com/abhiram_laha/)
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter
 - [@martonlederer](https://twitter.com/instagram) on Instagram
 - [Marton#6513](./) on Discord
