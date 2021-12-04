@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Abhiram Laha" />
+  <img src="https://giphy.com/clips/mUzrkHqfOphrhZiZNv" alt="Abhiram Laha" />
 </h1>
 
 ## Hey! 👋
