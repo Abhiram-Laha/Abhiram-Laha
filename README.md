@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://en.bloggif.com/tmp/a31c877da824ceca61d3851bb7c14e2f/text.gif?1647412443" alt="Abhiram Laha" />
+  <img src="https://cdn.vox-cdn.com/thumbor/SiIyeqmKIJGcOJccz94pHgwmgvQ=/0x0:1400x1400/1200x800/filters:focal(588x588:812x812):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68837730/poptart1redrainbowfix_1.0.gif" alt="Abhiram Laha" />
 </h1>
 
 ## Hey! 👋
