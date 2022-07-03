@@ -31,6 +31,6 @@
 
 <h3 align="left"> </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhiram-Laha&show_icons=true&locale=en"/></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrjha30" alt="hrjha30" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhiram-Laha" alt="Abhiram-Laha" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrjha30&" alt="hrjha30" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiram-Laha&" alt="Abhiram-Laha" /></p>
