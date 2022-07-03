@@ -1,8 +1,11 @@
-<h1 align="center">Hello!! Everyone <img src="https://media.tenor.com/images/d82823e5026aa8b4c90f5a2fb1b3c2a7/tenor.gif"height="60" width="60"></h1>
+<h1 align="center">Hello!! Everyone <img src="https://c.tenor.com/1VWSyLiSt8EAAAAM/freddy-krueger.gif" height="80" width="60"></h1>
 
 <h3 align="center"> I'm Abhiram Laha, a 2nd yr. student pursuing B.Tech in CSE (Data Science) from Future Institute of Engineering and Management</h3>
 <p align="right"> <img src="https://wallpapercave.com/wp/ESU5Vd5.jpg" height="auto" width="auto" /> </p>
 <p></p>
+
+
+
 <h3 align="left"><b>Contact Details : </b></h3> 
   
 <a href="https://www.linkedin.com/in/abhiramlaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
