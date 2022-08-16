@@ -30,7 +30,8 @@
 
 <h3 align="left"><b>Languages and Tools</b></h3>
 
-<div class="image" >
+<div style="display:flex; align-items: center;  justify-content: center;">
+  
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
@@ -45,8 +46,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="python" width="40" height="40"/> </a> </p>
 
-</div>
 
+
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhiram-Laha&show_icons=true&locale=en&layout=compact" /></p>
 
