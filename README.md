@@ -4,11 +4,6 @@
 <p align="right"> <img src="https://wallpapercave.com/wp/ESU5Vd5.jpg" height="auto" width="auto" /> </p>
 <p></p>
 
-
-
-
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left"> About Me : </h3> 
 
@@ -19,7 +14,3 @@
 - 💬 Ask me about **C,C++ and Tech Related Stuff**
 
 - 📫 Mail me : **abhiramlaha2020@gmail.com**
-
-
-
-
