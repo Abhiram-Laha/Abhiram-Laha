@@ -18,9 +18,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://meme-api.com/gimme)" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Abhiram-Laha&icon=1&color=0)](https://visitcount.itsvg.in)
 
