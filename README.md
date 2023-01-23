@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhiram Laha</h1>
-<h3 align="center">I'm Abhiram Laha, a 2nd yr. student pursuing B.Tech in CSE (Data Science) from Future Institute of Engineering and Management</h3>
+<h3 align="center">2nd year, Student pursuing B.Tech in CSE (Data Science) from Future Institute of Engineering and Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram-laha&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram-laha" /> </p>
 
