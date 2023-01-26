@@ -5,8 +5,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/lahaabhiram" target="blank"><img src="https://img.shields.io/twitter/follow/lahaabhiram?logo=twitter&style=for-the-badge" alt="lahaabhiram" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **C/C++,Python**
