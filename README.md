@@ -1,7 +1,7 @@
 <h1 align="center"> Hi<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/hello.gif" width="40px"> </a>I'm Abhiram Laha
 </h1>
 
-<h2 align="center">3rd year, Student pursuing B.Tech in CSE (Data Science) from Future Institute of Engineering and Management</h2>
+<h2 align="center">4th year, Student pursuing B.Tech in CSE (Data Science) from Future Institute of Engineering and Management</h2>
 
 
 <br>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **C/C++,Python**
+- 💬 Ask me about **C, Java, Python**
 
 - 📫 How to reach me **abhiramlaha2020@gmail.com**
 
